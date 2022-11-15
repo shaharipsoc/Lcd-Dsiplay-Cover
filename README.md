@@ -1,14 +1,14 @@
 # Lcd-Dsiplay-Cover
 
 
-his is a case for Smart LCD Controller. http://www.reprapdiscount.com/home/34-full-graphic-smart-lcd-controller.html
+This is a case for Smart LCD Controller. http://www.reprapdiscount.com/home/34-full-graphic-smart-lcd-controller.html
 
 If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help
 
-JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
-https://jlcpcb.com/3d-printing?from=shagivers
+# JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
+# https://jlcpcb.com/3d-printing?from=shagivers
 
-Instructions
+# Instructions
 
 I tried to design a slim enclosure again using a channel outside between the top and bottom part to let the case apear more flat - and, to cover possible impressisions ;-).
 I recommend to print the parts in different colors.
