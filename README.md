@@ -3,12 +3,12 @@
 
 This is a case for Smart LCD Controller. http://www.reprapdiscount.com/home/34-full-graphic-smart-lcd-controller.html
 
-If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help
+If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, JLCPCB is one of the best company from shenzhen china they provide 3D printing, PCB manufacturing and PCBA services to people in need, they provide good quality products in 3d printing with the materials include
+SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes JLCPCB better companion among other manufactures try out JLCPCB 3D Printing servies
 
-# JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
-# https://jlcpcb.com/3d-printing?from=shagivers
+JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
 
-# Instructions
+https://jlcpcb.com/3d-printing?from=shagivers
 
 I tried to design a slim enclosure again using a channel outside between the top and bottom part to let the case apear more flat - and, to cover possible impressisions ;-).
 I recommend to print the parts in different colors.
